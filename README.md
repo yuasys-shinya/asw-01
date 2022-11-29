@@ -1,4 +1,4 @@
 # asw-01
-AdSignWebサンプルの公開リポジトリです
+AdSignWebサンプルの公開リポジトリです。　　
 
-テスト編集です。（記入：nob）
+公開したGithub PagesのURLは https://github.com/yuasys-shinya/asw-01 です。  
